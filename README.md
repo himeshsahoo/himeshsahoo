@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🧑‍💻 Himesh Sahoo | Aspiring Developer<br>👋 Hey there! I'm Himesh Sahoo, a college student passionate about technology and innovation. Currently, I'm working on a music suggestion algorithm that enhances user experience by providing personalized recommendations.<br><br>🚀 What I'm Working On<br>🔹 ?? <br>🔹 Exploring Web Development and Advanced SQL Concepts<br><br>💡 Skills & Technologies<br>✅ Programming Languages: Python, SQL<br>✅ Database Management: MySQL<br>✅ Areas of Interest: Web Development, Data Science, AI<br><br>📌 Goals for 2026<br>🔹 Dive deeper into AI and cybersecurity Development<br>🔹 Contribute to open-source projects<br>🔹 Enhance my SQL and database optimization skills<br><br>📫 Connect With Me<br>💻 GitHub: github.com/himeshsahoo<br>📧 Email: himesh.sahoo10@gmail.com<br><br>🚀 Let's build something amazing together!<br>
+🧑‍💻 Himesh Sahoo | Aspiring Developer<br>👋 Hey there! I'm Himesh Sahoo, a college student passionate about technology and innovation. Currently, I'm working on a music suggestion algorithm that enhances user experience by providing personalized recommendations.<br><br>🚀 What I'm Working On<br>🔹 Exploring Web Development and Advanced SQL Concepts<br><br>💡 Skills & Technologies<br>✅ Programming Languages: Python, SQL<br>✅ Database Management: MySQL<br>✅ Areas of Interest: Web Development, Data Science, AI<br><br>📌 Goals for 2026<br>🔹 Dive deeper into AI and cybersecurity Development<br>🔹 Contribute to open-source projects<br>🔹 Enhance my SQL and database optimization skills<br><br>📫 Connect With Me<br>💻 GitHub: github.com/himeshsahoo<br>📧 Email: himesh.sahoo10@gmail.com<br><br>🚀 Let's build something amazing together!<br>
 
 
 ## 🌐 Socials:
